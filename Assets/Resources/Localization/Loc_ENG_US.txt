@@ -1,0 +1,31 @@
+# Localization strings, Key|Value
+
+MessageView_Ok|OK
+MessageView_Back|Back
+MessageView_Yes|Yes
+MessageView_No|No
+MessageView_Buy|Buy
+MessageView_Cancel|Cancel
+
+NumberFormatUtil_Unit_Format_Millions|{0}M
+NumberFormatUtil_Unit_Format_Thousands|{0}K
+
+Shared_NumberSeparatorThousands|,
+Shared_Ellipsis|...
+
+preloader_view.proceed|Click to proceed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

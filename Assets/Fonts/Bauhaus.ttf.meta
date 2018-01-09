@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0d9e003d2cae146409fd9c1b5e90a2d5
+timeCreated: 1489583124
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bauhaus Md BT
+  fontNames:
+  - Bauhaus Md BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

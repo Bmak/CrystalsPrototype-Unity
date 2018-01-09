@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1c8b50bbf95c1b54b8c75e28c1233d00
+timeCreated: 1489580894
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rockletter Simple
+  fontNames:
+  - Rockletter Simple
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
